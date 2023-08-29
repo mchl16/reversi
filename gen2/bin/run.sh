@@ -1,0 +1,1 @@
+nice -n -20 reversi2-mk4
